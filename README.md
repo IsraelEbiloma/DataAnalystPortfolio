@@ -1,13 +1,74 @@
-# Company Sales Analysis
+# Data Analysis Report: Sales Trends and Profit Analysis
+### Table of Content
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tool](#tool)
+- [Exploratory Data Analysis](exploratory-data-analysis)
+- [Result and Findings](result-and-findings)
+- [Recommendation](recommendation)
+- [Limitations](limitations)
+- [REFERENCES](references)
 
+  
 ### Project Overview
-In the course of this project, I leveraged Microsoft Excel to craft insightful charts and dashboards using sales data from a company. Employing PivotTables, I meticulously examined discrete trends within the data, translating key insights into visually compelling line, bar, and pie charts. As the project reached its conclusion, I distilled the comprehensive sales data into a cohesive dashboard, integrating a harmonious blend of charts and tables. This amalgamation serves to offer a holistic and succinct overview of the company's sales performance.
+In this data analysis project, I delve into the sales data of a company selling food products throughout the year 2020. The primary objectives include data cleaning and preparation, exploratory data analysis, and the creation of visualizations to understand sales trends, profits, and other key insights.
+
 
 ### Data Source
-Sales Data: The primary dataset used for this analysis is "sales_Data.xlsx" file, containing detailed information about each sales made by the company.
+Sales Data: The primary dataset used for this analysis is "sales_charts" file, containing detailed information about each sales made by the company.
 
 ### Tool
 
 - Excel- Creating Pivot Table, Data Visualisation and Dashboard.
   [Download Here](https://microsoft.com)
  
+### Exploratory Data Analysis
+Exploratory Data Analysis
+
+- Total Profits per Month (Line Chart)
+
+An exploratory analysis commenced by examining the total profits per month for the year. Utilized line Chart to reveal insights into the variations in earnings over the months.
+
+- Pivot Table for Monthly Sales Income
+
+To delve deeper, a pivot table was created to summarize the sales information, showcasing the total income from sales for each month.
+
+- Sales Profits by Salesperson (Bar Chart)
+
+The analysis progressed to a visual representation of sales profits by salesperson, utilizing a bar chart to highlight individual performances.
+
+- Sales by Product Category (Pie Chart)
+
+Pie charts were employed to represent the percentage of sales by product category, revealing that 44% of sales were attributed to cookies and 38% to bars.
+
+- Sales Profits by City (Pie Chart)
+
+Another pie chart illustrated the percentage of sales profits by city, providing geographical insights into the distribution of profits.
+
+- Total Items Sold by Product Type (Pivot Table)
+
+For a more granular analysis, a new pivot table was generated to display the total items sold for each product type.
+
+
+- Dashboard Creation
+
+To consolidate findings, a dashboard was crafted, presenting all key information on a single screen for a comprehensive overview of sales trends.
+
+### Result and Findings
+
+June 2020 emerged as the month with the highest earnings, exceeding $500 in sales for all months. While no distinct overall trend was observed throughout the year, June stood out with significantly higher sales.
+
+### Recommendation
+
+To harness the insights gained, it is recommended to assess the factors contributing to the spike in June sales. This information can be valuable for future planning, ensuring adequate inventory during peak seasons.
+
+### Limitations
+
+It's important to acknowledge the limitations of the analysis. External factors, market dynamics, or unique events may impact sales trends.
+
+### REFERENCES
+
+[Create Charts and Dashboards Using Microsoft Excel](https://www.coursera.org/learn/create-charts-dashboards-using-microsoft-excel/ungradedLti/BDxG6/create-charts-and-dashboards-using-microsoft-excel)
+
+
+
