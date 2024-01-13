@@ -55,6 +55,9 @@ For a more granular analysis, a new pivot table was generated to display the tot
 
 To consolidate findings, a dashboard was crafted, presenting all key information on a single screen for a comprehensive overview of sales trends.
 
+![image](https://github.com/IsraelEbiloma/DataAnalystPortfolio/assets/156438817/73036d5b-1b6e-4957-abad-f4ec2d3638c1)
+
+
 ### Result and Findings
 
 June 2020 emerged as the month with the highest earnings, exceeding $500 in sales for all months. While no distinct overall trend was observed throughout the year, June stood out with significantly higher sales.
