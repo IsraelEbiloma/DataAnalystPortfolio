@@ -30,25 +30,36 @@ Exploratory Data Analysis[My Project on sales Data Using Microsoft Excel.xlsx](h
 
 An exploratory analysis commenced by examining the total profits per month for the year. Utilized line Chart to reveal insights into the variations in earnings over the months.
 
-- Pivot Table for Monthly Sales Income
+![image](https://github.com/IsraelEbiloma/DataAnalystPortfolio/assets/156438817/3ad4bc96-37e3-4b60-aa4d-c835a2c2b661)
 
-To delve deeper, a pivot table was created to summarize the sales information, showcasing the total income from sales for each month.
 
 - Sales Profits by Salesperson (Bar Chart)
 
 The analysis progressed to a visual representation of sales profits by salesperson, utilizing a bar chart to highlight individual performances.
 
+![image](https://github.com/IsraelEbiloma/DataAnalystPortfolio/assets/156438817/6acdee5f-0bbb-413f-ab5d-121ef48563e5)
+
+
 - Sales by Product Category (Pie Chart)
 
 Pie charts were employed to represent the percentage of sales by product category, revealing that 44% of sales were attributed to cookies and 38% to bars.
+
+![image](https://github.com/IsraelEbiloma/DataAnalystPortfolio/assets/156438817/f53a8b17-9a5f-4ee2-a1ba-b8b83a7103b5)
+
 
 - Sales Profits by City (Pie Chart)
 
 Another pie chart illustrated the percentage of sales profits by city, providing geographical insights into the distribution of profits.
 
+![image](https://github.com/IsraelEbiloma/DataAnalystPortfolio/assets/156438817/6183709f-81d5-40d5-bf3d-8484149aae34)
+
+
 - Total Items Sold by Product Type (Pivot Table)
 
 For a more granular analysis, a new pivot table was generated to display the total items sold for each product type.
+
+![image](https://github.com/IsraelEbiloma/DataAnalystPortfolio/assets/156438817/3c35a185-f1fc-491d-b7b4-9e4a1d593d8b)
+
 
 
 - Dashboard Creation
