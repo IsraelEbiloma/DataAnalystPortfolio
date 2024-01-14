@@ -23,8 +23,7 @@ Sales Data: The primary dataset used for this analysis is "sales_charts" file, c
   [Download Here](https://microsoft.com)
  
 ### Exploratory Data Analysis
-Exploratory Data Analysis[My Project on sales Data Using Microsoft Excel.xlsx](https://github.com/IsraelEbiloma/DataAnalystPortfolio/files/13929778/My.Project.on.sales.Data.Using.Microsoft.Excel.xlsx)
-
+Exploratory Data Analysis
 
 - Total Profits per Month (Line Chart)
 
